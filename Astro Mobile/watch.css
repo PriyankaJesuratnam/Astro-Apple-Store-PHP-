@@ -1,0 +1,186 @@
+@charset "utf-8";
+/* CSS Document */
+p
+{
+    font-family: "Cambria Math";
+	font-size: 50px;
+	color:black;
+	
+}
+div.pic1 img
+{
+	align-items: center;
+		
+}
+
+p1
+{
+    font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 25px;
+	text-align: center;	
+	color: black;
+	
+}
+
+p2
+{
+    font-family:arizonia;
+    font-size:25px;
+	text-align: center;	
+	color: black;
+}
+
+div.pic1 img
+{
+	align-items: center;
+		
+}
+p3
+{
+    font-family:Brush Script MT, Brush Script Std, cursive;
+	font-size: 60px;
+	color:#205EE2;
+	margin-left: 280px;
+}
+p4
+{
+    font-family:alegreya, alice, andada; 
+	font-size:35px;
+	margin-left: 280px;	
+	color:#E92124;
+}
+p5
+{
+    font-family: "alex-brush"; 
+	font-size: 25px;
+	color: #205EE2;
+	text-decoration-style: wavy;
+}
+p6
+{
+    font-family:Brush Script MT, Brush Script Std, cursive;
+	font-size: 60px;
+	color:#FFCCCC;
+	margin-left: 5px;
+}
+p7
+{
+    font-family:alegreya, alice, andada; 
+	font-size:35px;
+	margin-left: 5px;	
+	color: #FF0066;
+}
+p8
+{
+    font-family: "alex-brush"; 
+	font-size: 25px;
+	margin-left: 5px;
+	color: #205EE2;
+	text-decoration-style: wavy;
+}
+p9
+{
+    font-family:alegreya, alice, andada; 
+	font-size:25px;
+	margin-left: 5px;	
+	color:#FFFFFF;
+}
+p10
+{
+    font-family:Brush Script MT, Brush Script Std, cursive;
+	font-size: 40px;
+	color:crimson;
+	margin-left: 5px;
+}
+section-ipad-mini 
+{
+    width: 76px;
+    height: 31px;
+    background-size: 76px 31px;
+    background-repeat: no-repeat;
+}
+p11
+{
+    font-family:Brush Script MT, Brush Script Std, cursive;
+	font-size: 60px;
+	color:black;
+	margin-left: 5px;
+}
+p12
+{
+    font-family:"Cambria Math";
+	font-size: 25px;
+	color:black;
+}
+p13
+{
+    font-family:"Cambria Math";
+	font-size: 40px;
+	color: black;
+}
+th  
+{
+    padding-right: 40px;
+}
+	
+table 
+{
+    border-spacing: 30px;
+	text-align: center;
+	font-family: "Cambria Math";
+	font-size: 25px;
+}
+
+btn {
+  background-color:#60A0F1; 
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius:30px;
+  font-family: "Cambria Math";
+  text-color: #FFFFFF;
+}
+
+btn:active 
+{
+  box-shadow: 0 5px blue;
+  transform: translateY(4px);
+}
+
+p37
+{
+	text-align: center;
+	color:#FFFFFF;
+	background-color: black;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 75px;
+		
+}
+
+
+.center {
+  text-align: center;
+  border: 3px solid black;
+  background: #000000;
+}
+
+element.style {
+}
+.center {
+    text-align: center;
+    border: 3px solid black;
+    background: #000000;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+
+
